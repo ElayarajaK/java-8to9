@@ -15,12 +15,7 @@ public class Manager5 {
         System.out.println("Enter the values : ");
                    int values= sc.nextInt();
 
-                   
-
-
-
-
-                   do{
+                    do{
                         values--;
 
                         System.out.println(values);
