@@ -21,7 +21,7 @@ public class Manager5 {
                         System.out.println(values);
                    }
                    while(values > 0 && values < 100);
-
+                   
 
     }
 }
