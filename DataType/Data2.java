@@ -3,7 +3,7 @@
 public class Data2 {
     public static void main(String[] args) {
        
-        int value=1464365463465436536436346340;
+        float value=10.20f;
        
         System.out.println(value);
     }    
