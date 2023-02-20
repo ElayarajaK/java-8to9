@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch B",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Basics",
+            "request": "launch",
+            "mainClass": "Basics",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch C",
+            "request": "launch",
+            "mainClass": "C",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comp",
+            "request": "launch",
+            "mainClass": "Comp",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Con1",
+            "request": "launch",
+            "mainClass": "Con1",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Data1",
+            "request": "launch",
+            "mainClass": "Data1",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Data2",
+            "request": "launch",
+            "mainClass": "Data2",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Data4",
+            "request": "launch",
+            "mainClass": "Data4",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java17",
+            "request": "launch",
+            "mainClass": "Java17",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager",
+            "request": "launch",
+            "mainClass": "Manager",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager1",
+            "request": "launch",
+            "mainClass": "Manager1",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager2",
+            "request": "launch",
+            "mainClass": "Manager2",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager3",
+            "request": "launch",
+            "mainClass": "Manager3",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager4",
+            "request": "launch",
+            "mainClass": "Manager4",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager5",
+            "request": "launch",
+            "mainClass": "Manager5",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Opr",
+            "request": "launch",
+            "mainClass": "Opr",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student1",
+            "request": "launch",
+            "mainClass": "Student1",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager1(1)",
+            "request": "launch",
+            "mainClass": "loops.Manager1",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager2(1)",
+            "request": "launch",
+            "mainClass": "loops.Manager2",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager3(1)",
+            "request": "launch",
+            "mainClass": "loops.Manager3",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager4(1)",
+            "request": "launch",
+            "mainClass": "loops.Manager4",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager5(1)",
+            "request": "launch",
+            "mainClass": "loops.Manager5",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager1(2)",
+            "request": "launch",
+            "mainClass": "returnType.Manager1",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager2(2)",
+            "request": "launch",
+            "mainClass": "returnType.Manager2",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Launch Manager3(2)",
+            "request": "launch",
+            "mainClass": "returnType.Manager3",
+            "projectName": "java-8to9_6b5ee458"
+        }
+    ]
+}
