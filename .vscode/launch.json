@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Dev1",
+            "request": "launch",
+            "mainClass": "Dev1",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
             "name": "Launch Manager2",
             "request": "launch",
             "mainClass": "Variable.Manager2",
