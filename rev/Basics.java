@@ -17,3 +17,11 @@ public class Basics
     }
     
 }
+
+====> 30 min <========
+
+1. water fall
+2. sldc
+3. frs and brs
+
+===>         <=======

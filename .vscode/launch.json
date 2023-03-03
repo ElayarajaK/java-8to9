@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dev",
+            "request": "launch",
+            "mainClass": "Dev",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Manager1",
+            "request": "launch",
+            "mainClass": "Oops.inheritance.Manager1",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
             "name": "Launch Dev1",
             "request": "launch",
             "mainClass": "Dev1",
