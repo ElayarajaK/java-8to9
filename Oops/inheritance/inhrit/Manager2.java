@@ -1,4 +1,4 @@
-class Tata{
+class Tata {
     Tata(){
         super();
         System.out.println("TATA conns");
@@ -16,6 +16,7 @@ class Tata{
 }
 class TCS extends Tata{
     TCS(){
+        super();
         System.out.println("tcscons");
     }
     TCS(String Tech){
@@ -37,7 +38,7 @@ class TSteal extends TCS
         System.out.println("tscons");
     }
     TSteal(String name,double ticome,int profit){
-        
+        super();
         System.out.println(name+","+ticome+","+profit);
     }
     {
