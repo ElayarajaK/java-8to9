@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Manager2",
+            "request": "launch",
+            "mainClass": "Agg.Manager2",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
+            "name": "Manager1",
+            "request": "launch",
+            "mainClass": "Agg.Manager1",
+            "projectName": "java-8to9_6b5ee458"
+        },
+        {
+            "type": "java",
             "name": "Dev",
             "request": "launch",
             "mainClass": "Dev",
